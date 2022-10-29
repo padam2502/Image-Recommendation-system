@@ -33,7 +33,7 @@ Behance is a community art website where users showcase and discover creative wo
 
 * Run the Cells
 
-### OutPut
+### Output
 
 - Final output response will be saved in the file named ```config['output_file']```.
 
